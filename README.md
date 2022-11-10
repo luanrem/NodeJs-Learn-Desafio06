@@ -1,6 +1,6 @@
 ![ignite image](.github/cover-node.js.png)
 
-#  Chapter III - Desafio 01: Database Queries :rocket: :purple_heart:
+#  Chapter IV - Desafio 01: Unit Test :rocket: :purple_heart:
 
 ## :golf: Objective
 
@@ -10,10 +10,10 @@ In this challenge, you must create unit tests for a ready-made application using
 - Integration Test
 - Database
 
-## :white_check_mark: Requirements 
+## :white_check_mark: Requirements
 
 
-### Application Routes 
+### Application Routes
 
 #### Post
 _/api/v1/users_
