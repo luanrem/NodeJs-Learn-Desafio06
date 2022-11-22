@@ -11,10 +11,10 @@ enum OperationType {
   WITHDRAW = 'withdraw',
 }
 
-let statementsRepositoryInMemory: InMemoryStatementsRepository
+let statementsRepositoryInMemory: InMemoryStatementsRepository;
 let usersRepositoryInMemory: InMemoryUsersRepository;
 let createUserUseCase: CreateUserUseCase;
-let createStatementUseCase: CreateStatementUseCase
+let createStatementUseCase: CreateStatementUseCase;
 
 describe("Create Statement", () => {
 
